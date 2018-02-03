@@ -61,6 +61,9 @@ One way you can do this is with following command:
 
 (`cat` is a command that will print the contents of the file called `step0` for you to read.)
 
+### What I have learned
+This exercise has allows me to familiarise myself with the Command Line, a tool that is extremely useful for a developer.
+
 ### Credits
 
 By Noah Veltman
